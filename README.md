@@ -1,6 +1,6 @@
 <h2> Hi, I'm Fanny! <img src="https://static.wikia.nocookie.net/mudae/images/b/b3/BongoCat_19.gif/revision/latest?cb=20191021084237" width="50"></h2>
 <img align='right' src="https://i.imgur.com/IkdLIvu.gif" width="230">
-<p><em>Full-stack Webdeveloper Graduate looking to get a position as junior web dev 💼
+<p><em>Full-stack Webdeveloper working at University of Roehampton 💼
 </em></p>
 
 
