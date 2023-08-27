@@ -18,7 +18,6 @@ const fanny = {
   concepts: ["MVC", "OOP", "TDD"],
   techCommunities: {
                         member: "girlCode"
-                      },
- challenge: "I am learning React and Redux on Udemy at the moment! 30 hours to go!"
+                      }
 }
 ```
