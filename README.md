@@ -1,4 +1,4 @@
-<h2> Hi, I'm Fanny! <img src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="50"></h2>
+<h2> Hi, I'm Fanny!</h2>
 <img align='right' src="https://i.imgur.com/IkdLIvu.gif" width="230">
 <p><em>Full-stack Webdeveloper working at University of Roehampton 💼
 </em></p>
