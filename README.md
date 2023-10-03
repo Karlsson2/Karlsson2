@@ -14,7 +14,7 @@
 const fanny = {
   code: [Javascript, Ruby, HTML, CSS, SQL],
   tools: [Ruby on Rails, Bootstrap],
-  toolsBeingLearnt: [React, Redux],
+  learning: [React, Redux, php],
   concepts: ["MVC", "OOP", "TDD"],
   techCommunities: {
                         member: "girlCode"
