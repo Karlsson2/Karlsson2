@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Fanny</h1>
 <h3 align="center">A hardworking and excited Fullstack developer from Sweden.</h3>
 
-- 🔭 I’m currently working on [Yrgo-Portal](https://github.com/Karlsson2/yrgo-portal)
+- 🔭 I’m currently working on [Renova-App](https://github.com/Karlsson2/renova-app)
 
 - 🌱 I’m currently learning **React & NodeJS**
 
